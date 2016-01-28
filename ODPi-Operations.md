@@ -1,7 +1,7 @@
 # ODPi Application Installation and Management Specification
 ## Abstract
 This specification outlines the requirements for ODPi-compliant applications to be installed, managed, and monitored by Ambari and the guarantees that consumers, ISVs, and service developers can count on to develop custom applications, etc.
-
+ 
 ## Objective
 The Application Installation and Management specification covers requirements and guarantees for consumers, ISVs, and service developers while developing custom service specification and views. An application can be a custom service that can be managed by Ambari or a View that can be hosted by Ambari deployments conforming to this spec.
 
